@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "974472802e43d3252f78e8c4b54aa4630c13fb177f69",
+        "name": "mystore1",
+        "description": "",
+        "version": "0.0.0",
+        "created_date": "2026-09-18T06:05:57.097965+00:00",
+        "updated_date": "2026-09-18T06:05:57.097992+00:00"
+    }
+}
